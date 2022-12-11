@@ -1,19 +1,18 @@
 # Admission-form
 # Admission form program using python and MySql
-# Python Libraries required:
-  1)mysql.connector
-      pip install mysql.connector
-  2)time
-  3)csv
+# Libraries:
+        mysql.connector
+        time 
+        csv
 # Note:
-    run on python 3.10
+    run on python 3.10 (worked fine🙂)
     Make sure MySql is installed
     change password on program
     
     
-# functions
-  !)new admission
-  2)List 
-  3)Edit
-  4)Export as csv file
-  5)exit
+# functions:
+     new admission
+     List  
+     Edit details 
+     Export as csv file
+     exit
