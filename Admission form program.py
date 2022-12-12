@@ -2,7 +2,7 @@ import mysql.connector
 import time
 import os
 import csv
-mydb=mysql.connector.connect(host="127.0.0.1",user="root",password="udhaya.p23")
+mydb=mysql.connector.connect(host="127.0.0.1",user="root",password="XXXXX")
 print("---DATABASE CONNECTED---")
 sql=mydb.cursor()
 def edit(num):
